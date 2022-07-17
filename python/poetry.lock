@@ -1,0 +1,15 @@
+[[package]]
+name = "python-osc"
+version = "1.8.0"
+description = "Open Sound Control server and client implementations in pure Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "ccf94029f5804703545c9eab44241b00e6c05d485807b22cbdff465dc2e49822"
+
+[metadata.files]
+python-osc = []
