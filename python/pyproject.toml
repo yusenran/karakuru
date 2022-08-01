@@ -7,6 +7,9 @@ authors = ["YusenRan <wired.ran@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 python-osc = "^1.8.0"
+numpy = "^1.23.1"
+matplotlib = "^3.5.2"
+nptyping = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 
